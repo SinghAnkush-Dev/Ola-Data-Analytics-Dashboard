@@ -8,19 +8,23 @@
 ## Dashboard Screenshots
 
 ### Overview
-![Overview](images/overview.png)
+<img width="1366" height="720" alt="overview" src="https://github.com/user-attachments/assets/ece651bf-f211-4151-8df8-0803e80ce827" />
+
 
 ### Vehicle Analysis
-![Vehicle Analysis](images/vechile_type.png)
+<img width="1366" height="720" alt="vechile_type" src="https://github.com/user-attachments/assets/788ebe6b-6243-4e40-9417-cbb7dedaf6eb" />
+
 
 ### Revenue Analysis
-![Revenue Analysis](images/revenue.png)
+<img width="1366" height="720" alt="revenue" src="https://github.com/user-attachments/assets/e078f064-a150-44b5-9d17-4115383d686d" />
 
 ### Cancellation Analysis
-![Cancellation Analysis](images/cancellation.png)
+<img width="1366" height="720" alt="cancellation" src="https://github.com/user-attachments/assets/1ed0bedd-0fb0-4c23-ab85-0cfe9f282297" />
+
 
 ### Ratings Analysis
-![Ratings Analysis](images/ratings.png)
+<img width="1366" height="720" alt="ratings" src="https://github.com/user-attachments/assets/34bb12b5-387b-44d2-86e5-5b1e7fa8df25" />
+
 
 # SQL Analysis
 
@@ -30,7 +34,8 @@ The following SQL queries were used to analyze ride booking data and generate bu
 
 This query identifies customers with the highest number of bookings.
 
-![Top Customers](images/sql_top_customers.png)
+![Top Customers]<img width="448" height="257" alt="sql_top_customers" src="https://github.com/user-attachments/assets/7da171bf-a63c-463b-b5f6-a74b62b6b546" />
+
 
 ---
 
@@ -38,7 +43,8 @@ This query identifies customers with the highest number of bookings.
 
 This query calculates the average distance traveled for each vehicle category.
 
-![Average Ride Distance](images/sql_avg_distance.png)
+![Average Ride Distance]<img width="358" height="274" alt="sql_avg_distance" src="https://github.com/user-attachments/assets/5475facf-a6d3-434e-b1bc-c6c664bf6358" />
+
 
 ---
 
@@ -46,7 +52,8 @@ This query calculates the average distance traveled for each vehicle category.
 
 This query calculates the total revenue generated from successfully completed rides.
 
-![Revenue Analysis](images/sql_revenue.png)
+![Revenue Analysis]<img width="472" height="176" alt="sql_revenue" src="https://github.com/user-attachments/assets/037f9158-89de-4394-8013-0619bab84ca6" />
+
 
 
 
